@@ -3,7 +3,7 @@ public class MainApp {
 
 	public static void main(String[] args) {
 		
-//создаем объекты класса Континент
+//СЃРѕР·РґР°РµРј РѕР±СЉРµРєС‚С‹ РєР»Р°СЃСЃР° РљРѕРЅС‚РёРЅРµРЅС‚
 		
 		Continent [] continent = new Continent [6];
 		continent [0] = new Continent (24_710_000,"North America");
@@ -30,7 +30,7 @@ public class MainApp {
 		System.out.println();
 	
 
-	//создаем объекты класса Океаны
+	//СЃРѕР·РґР°РµРј РѕР±СЉРµРєС‚С‹ РєР»Р°СЃСЃР° РѕРєРµР°РЅС‹
 	
 	Oceans [] oceans = new Oceans [4];
 	oceans [0] = new Oceans ("Pacific",10_911);
